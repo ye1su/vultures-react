@@ -1,0 +1,45 @@
+.g6-component-tooltip {
+  background-color: rgba(255, 255, 255, 0.65);
+  padding: 10px;
+  box-shadow: rgb(174, 174, 174) 0px 0px 10px;
+  width: fit-content;
+  color: #000;
+  border-radius: 4px;
+}
+.g6-component-contextmenu {
+  position: absolute;
+  list-style-type: none;
+  left: -150px;
+  background-color: #FFFFFF;
+  border-radius: 2px;
+  font-size: 12px;
+  color: #666666 ;
+}
+.g6-component-contextmenu li {
+  height: 30px;
+  line-height: 30px;
+  cursor: pointer;
+  list-style-type: none;
+  list-style: none;
+  padding-left: 15px;
+}
+.g6-component-contextmenu li:hover {
+  background: #F0F7FF;
+}
+.g6-component-contextmenu ul {    
+  width: 100px;
+  list-style: none;  
+  padding: 0;   
+  margin: 0;
+}
+.graphBtn {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.grophClass {
+  width: '100%';
+  height: '100%';
+  padding-bottom:'30px';
+  background: '#FAFAFA';
+}

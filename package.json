@@ -30,7 +30,11 @@
     ]
   },
   "dependencies": {
+    "@antv/g6": "^4.6.18",
+    "@types/lodash": "^4.14.182",
+    "ahooks": "^3.7.0",
     "antd": "^4.22.3",
+    "lodash": "^4.17.21",
     "react": "^18.0.0",
     "react-beautiful-dnd": "^13.1.0"
   },
